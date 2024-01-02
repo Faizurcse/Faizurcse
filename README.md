@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Md FaizurRahman
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning JAVA and Full stack webdevelopment
+- 👀 I’m interested in Full stack webdevelopment and Machine learning
+- 🌱 I’m currently learning dotnet Full stack webdevelopment
 
 
 <!---
